@@ -10,8 +10,7 @@ public class Devops {
 	        System.out.print("* ");
 	      }
 	      System.out.println();
-	      samrat lij;jj
-	      sayjgfk
+	      
 	    }
 
 
